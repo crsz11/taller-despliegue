@@ -242,5 +242,6 @@ def update_output_div(date, hour, proy):
 
 
 # Run the server
+# Cambio Taller 2: prueba de rama stiven
 if __name__ == "__main__":
     app.run(debug=True)
