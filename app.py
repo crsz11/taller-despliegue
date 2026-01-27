@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-
+# Comentario para realizar un cambio sobre el repositorio de mi compañero
 
 app = dash.Dash(
     __name__,
